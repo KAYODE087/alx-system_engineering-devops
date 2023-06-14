@@ -1,2 +1,2 @@
-#!/bin/ash
-export PATH-$PATH:/action
+#!/bin/bash
+#PATH=$PATH:/action
