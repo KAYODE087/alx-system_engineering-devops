@@ -1,2 +1,2 @@
 #!/bin/ash
-export PATH=$PATH:/action
+export PATH-$PATH:/action
